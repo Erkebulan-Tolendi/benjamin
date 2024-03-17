@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "651268094173",
+    "firebase_url": "https://benjamin-8eb28-default-rtdb.firebaseio.com",
+    "project_id": "benjamin-8eb28",
+    "storage_bucket": "benjamin-8eb28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651268094173:android:4d6e0d730501b476b24334",
+        "android_client_info": {
+          "package_name": "com.example.benjamin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyAlsOMKN-YLp8BkuSbePznEw02aPV8B8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

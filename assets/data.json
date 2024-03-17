@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Диван",
+    "previewImage": "sofa.png",
+    "furnitures": [
+      {
+        "name": "Удобный диван",
+        "description": "Удобный диван для вашей гостиной",
+        "price": 500,
+        "image": "comfy_sofa.png",
+        "materials": [
+          {"name": "Leather", "img": "leather.png", "price": 600},
+          {"name": "Fabric", "img": "fabric.png", "price": 400},
+          {"name": "Fabric", "img": "fabric.png", "price": 400}
+        ]
+      },
+      {
+        "name": "Элегантный диван",
+        "description": "Элегантный диван с современным дизайном.",
+        "price": 700,
+        "image": "elegant_sofa.jpeg",
+        "materials": [
+          {"name": "Velvet", "img": "velvet.png", "price": 800},
+          {"name": "Wood", "img": "wood.png", "price": 600},
+          {"name": "Wood", "img": "wood.png", "price": 600}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Стул",
+    "previewImage": "chair.png",
+    "furnitures": [
+      {
+        "name": "Деревянный стул",
+        "description": "Простой деревянный стул для обеденного стола.",
+        "price": 100,
+        "image": "wooden_chair.jpeg",
+        "materials": [
+          {"name": "Oak Wood", "img": "oak_wood.png", "price": 120},
+          {"name": "Pine Wood", "img": "pine_wood.png", "price": 80}
+        ]
+      },
+      {
+        "name": "Современный стул",
+        "description": "Современный стул с металлическим каркасом.",
+        "price": 150,
+        "image": "modern_chair.jpg",
+        "materials": [
+          {"name": "Steel", "img": "steel.png", "price": 200},
+          {"name": "Plastic", "img": "plastic.png", "price": 100}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Кровать",
+    "previewImage": "bed.png",
+    "furnitures": [
+      {
+        "name": "Двуспальные кровать",
+        "description": "Двуспальные кровати у официального дилера.",
+        "price": 100,
+        "image": "bedd.jpg",
+        "materials": [
+          {"name": "Oak Wood", "img": "oak_wood.png", "price": 120},
+          {"name": "Pine Wood", "img": "pine_wood.png", "price": 80}
+        ]
+      },
+      {
+        "name": "Односпальная кровать",
+        "description": "Современный односпальная кровать с металлическим каркасом.",
+        "price": 150,
+        "image": "bed2.jpg",
+        "materials": [
+          {"name": "Steel", "img": "steel.png", "price": 200},
+          {"name": "Plastic", "img": "plastic.png", "price": 100}
+        ]
+      }
+    ]
+  }
+]
